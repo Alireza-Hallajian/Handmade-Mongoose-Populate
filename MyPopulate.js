@@ -38,7 +38,7 @@ async function MyPopulate(doc, from_indent, from_field, to_field, ref, res)
     if (fetched_docs.length > 0) 
     {
         //****************************************************************** */
-        //                replaced fetched data to source field
+        //                replace fetched data to source field
         //****************************************************************** */
 
         // if the source field (to populate for) has an indent
